@@ -69,16 +69,36 @@
 <tr>
 <td width="50%" valign="top">
 
+### AI / GenAI Tools
+
+<img src="https://cdn.simpleicons.org/openai/412991" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="45" height="45"/>
+
+</td>
+<td width="50%" valign="top">
+
 ### Programming (Secondary)
 
 <img src="https://skillicons.dev/icons?i=java,c,js,react,nodejs,express" height="50"/>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50"/>
+
+</td>
+<td width="50%" valign="top">
+
+### Emerging / In-Demand (2026)
+
+`Prompt Engineering` `Generative AI` `LLMs` `RAG` `AI-Assisted Analytics`
 
 </td>
 </tr>
