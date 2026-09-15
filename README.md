@@ -19,7 +19,7 @@
 ---
 
 # 💫 About Me:
-- 📊 AI Enginner **Data Analyst** with hands-on experience in SQL, Advanced Excel, Power BI, Tableau, and Python
+- 📊  **Data Analyst** with hands-on experience in SQL, Advanced Excel, Power BI, Tableau, and Python
 <br><br>
 - 🔍 Skilled in data cleaning, validation, EDA, and dashboard reporting — delivered insights across **60,000+ records**
 <br><br>
