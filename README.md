@@ -27,7 +27,7 @@
 <br><br>
 - 💼 Completed virtual job simulations with **Deloitte Australia** and **Tata Group**
 <br><br>
-- 💬 Ask me about Data Analysis, SQL, Power BI, Tableau, or Python
+- 💬 Ask me about Data Analysis,Gen AI, SQL, Power BI, Tableau, or Python
 <br><br>
 - 📫 How to reach me: **lakshaydubey9@gmail.com**
 
