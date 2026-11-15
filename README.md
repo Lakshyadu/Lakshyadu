@@ -1,157 +1,109 @@
-<table width="100%">
+<div align="center">
 
-<tr>
-<td width="60%" align="center" valign="middle">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=70&size=32&lines=Hey%2C+I'm+Lakshya+%F0%9F%91%8B;Aspiring+Data+Analyst;SQL+%7C+Power+BI+%7C+Python+%7C+Tableau)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&pause=1000&width=500&height=100&size=40&lines=Hey%2C+I+am+Lakshya+!!;Aspiring+Data+Analyst+!!;SQL+%7C+Power+BI+%7C+Python+!! )](https://git.io/typing-svg)
+**Turning raw data into clear, decision-ready insights.**
 
-</td>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-dubey-6a30a428b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshaydubey9@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lakshyadu)
 
-<td width="40%" valign="right">
-
-<img class="coding-gif" align="right" alt="data analysis" width="275" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif"/>
-
-</td>
-</tr>
-
-</table>
+</div>
 
 ---
 
-# 💫 About Me:
-- 📊  **Data Engineer ** with hands-on experience in SQL, Advanced Excel, Power BI, Tableau, and Python
-<br><br>
-- 🔍 Skilled in data cleaning, validation, EDA, and dashboard reporting — delivered insights across **60,000+ records**
-<br><br>
+## 👨‍💻 About Me
+
+- 📊 Data analyst with hands-on experience in **SQL, Advanced Excel, Power BI, Tableau and Python**
+- 🔍 Skilled in data cleaning, validation, EDA and dashboard reporting, with insights delivered across **60,000+ records**
 - 🎓 Pursuing **MCA** at Maharishi Information Technology, Lucknow (2025–2027)
-<br><br>
 - 💼 Completed virtual job simulations with **Deloitte Australia** and **Tata Group**
-<br><br>
-- 💬 Ask me about Data Analysis,Gen AI, SQL, Power BI, Tableau, or Python
-<br><br>
-- 📫 How to reach me: **lakshaydubey9@gmail.com**
+- 🤖 Currently exploring **Generative AI, LLMs and RAG** for AI-assisted analytics
+- 💬 Ask me about: Data Analysis, SQL, Power BI, Tableau, Python, GenAI
+- 📫 Reach me at: **lakshaydubey9@gmail.com**
 
-<br>
+---
 
-# 🌐 Where to find me :)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-dubey-6a30a428b/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Lakshyadu)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakshaydubey9@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?logo=whatsapp&logoColor=white)](tel:+919335843899)
+## 🚀 Featured Projects
 
-# 💻 Tech Stack:
+| Project | What it does | Impact |
+|---|---|---|
+| **Customer Behaviour Analysis Dashboard**<br>`Power BI` `Python` `Pandas` | Interactive dashboard that turns raw CRM data into KPIs such as retention rate, purchase frequency and lifetime value | Processes **50,000+** records; Python cleaning cut preprocessing time by **40%** |
+| **Diwali Sales Data Analysis**<br>`Python` `SQL` `ETL` | End-to-end ETL pipeline analysing festival-season sales transactions | **10,000+** transactions; **35%** fewer data inconsistencies; reporting time cut from hours to minutes |
+| **Customer Churn Prediction**<br>`Python` `Scikit-learn` | ML classification model predicting which customers are likely to leave | **85%+** accuracy across 4 industry verticals; evaluated with Recall, F1-score and ROC-AUC |
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+---
 
-### Data Analysis & Visualization
+## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=mysql,python,r" height="50"/>
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/tableau/E97627" width="45" height="45"/>
+**Data Analysis & Visualization**
 
-</td>
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=mysql,python,r" height="45"/>
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="42" height="42"/>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" height="42"/>
+<img src="https://cdn.simpleicons.org/tableau/E97627" width="42" height="42"/>
 
-### Python Libraries
+**Python Libraries**
 
-<img src="https://cdn.simpleicons.org/pandas/150458" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/numpy/013243" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/plotly/3F4F75" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/pandas/150458" width="42" height="42"/>
+<img src="https://cdn.simpleicons.org/numpy/013243" width="42" height="42"/>
+<img src="https://cdn.simpleicons.org/plotly/3F4F75" width="42" height="42"/>
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="42" height="42"/>
+<img src="https://cdn.simpleicons.org/jupyter/F37626" width="42" height="42"/>
 
-</td>
-</tr>
+**Databases**
 
-<tr>
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="45"/>
 
-### AI / GenAI Tools
+**AI / GenAI**
 
-<img src="https://cdn.simpleicons.org/openai/412991" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/openai/412991" width="42" height="42"/>
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="42" height="42"/>
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="42" height="42"/>
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="42" height="42"/>
 
-</td>
-<td width="50%" valign="top">
+**Also Familiar With**
 
-### Programming (Secondary)
+<img src="https://skillicons.dev/icons?i=java,c,js,react,nodejs,express" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=java,c,js,react,nodejs,express" height="50"/>
+**Tools & Platforms**
 
-</td>
-</tr>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="45"/>
 
-<tr>
-<td width="50%" valign="top">
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50"/>
-
-</td>
-<td width="50%" valign="top">
-
-### Emerging / In-Demand (2026)
+**Currently Exploring**
 
 `Prompt Engineering` `Generative AI` `LLMs` `RAG` `AI-Assisted Analytics`
 
-</td>
-</tr>
+---
 
-<tr>
-<td colspan="2" valign="top">
+## 🏅 Certifications
 
-### Tools & Platforms
+- ReactJS & Redux (Udemy)
+- NodeJS with Express & MongoDB (Udemy)
+- Python for Data Science (XIE)
+- Command Line in Linux (Coursera)
+- Microsoft AI Classroom
+- MongoDB Basics
+- SQL, Java
+- ⭐ 5-star C++ & SQL (HackerRank)
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="50"/>
+---
 
-</td>
-</tr>
-</table>
+## 📊 GitHub Stats
 
-# 🚀 Featured Projects
+<div align="center">
 
-**Customer Behaviour Analysis Dashboard** — Interactive Power BI dashboard processing 50,000+ customer records, converting raw CRM data into KPIs (retention rate, purchase frequency, lifetime value). Automated cleaning with Python (Pandas), cutting preprocessing time by 40%.
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=Lakshyadu&theme=tokyonight&include_all_commits=true&count_private=false"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=Lakshyadu&theme=tokyonight"/>
 
-**Diwali Sales Data Analysis** — End-to-end ETL pipeline analyzing 10,000+ festival-season transactions, reducing data inconsistencies by 35% and cutting reporting time from hours to minutes.
+<img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Lakshyadu&theme=tokyonight&layout=compact"/>
 
-**Customer Churn Prediction** — ML classification model achieving 85%+ accuracy predicting customer churn, evaluated using Recall, F1-score, and ROC-AUC across 4 industry verticals.
+</div>
 
-# 📊 GitHub Stats:
-<table>
-<tr>
+---
 
-<td width="50%" align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Lakshyadu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"/>
+💡 *Open to data analyst internships and entry-level roles. Let's connect!*
 
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Lakshyadu&theme=tokyonight&hide_border=false"/>
-
-</td>
-
-</tr>
-</table>
-
-<table>
-<tr>
-
-<td width="50%" valign="center">
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Lakshyadu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
-
-</td>
-
-</tr>
-</table>
-
-# 🏅 Certifications
-`ReactJS & Redux (Udemy)` `NodeJS with Express & MongoDB (Udemy)` `Python for Data Science (XIE)` `Command Line in Linux (Coursera)` `Microsoft AI Classroom` `MongoDB Basics` `SQL` `Java` `5⭐ C++ & SQL (HackerRank)`
+</div>
